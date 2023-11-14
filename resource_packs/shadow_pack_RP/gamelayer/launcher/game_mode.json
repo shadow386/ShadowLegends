@@ -5,7 +5,7 @@
             "default_privacy": 0,
             "loading_tip_set": "campaign",
             "max_players": 1,
-            "name": "ShadowLegends",
+            "name": "shadowlegends",
             "parent": "myth",
             "resource_pack": "c6ac16bb-b113-401e-8f8c-40b7dabe6d18",
             "telemetry_name": "ShadowLegends_Mod",
@@ -14,7 +14,7 @@
     ],
     "myths_hub_host_list": [
         {
-            "name": "myth_test"
+            "name": "shadowlegends_myth"
         }
     ]
 }
