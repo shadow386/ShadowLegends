@@ -1,6 +1,6 @@
 {
     "badger:template": {
-        "game_mode": "scraft",
+        "game_mode": "shadowlegends",
         "parent": "game_rules"
     },
     "defaults": {

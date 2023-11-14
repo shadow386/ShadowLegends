@@ -5,10 +5,10 @@
             "default_privacy": 0,
             "loading_tip_set": "campaign",
             "max_players": 1,
-            "name": "ShadowCraft",
+            "name": "ShadowLegends",
             "parent": "myth",
             "resource_pack": "c6ac16bb-b113-401e-8f8c-40b7dabe6d18",
-            "telemetry_name": "Myth_Mod_Template",
+            "telemetry_name": "ShadowLegends_Mod",
             "ui_style": "lostLegend"
         }
     ],
