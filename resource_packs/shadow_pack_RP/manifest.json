@@ -1,0 +1,29 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "shadow.pack",
+        "description": "Shadow's Resource Pack",
+        "uuid": "c6ac16bb-b113-401e-8f8c-40b7dabe6d18",
+        "version": [
+            1,
+            0,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            16,
+            0
+        ]
+    },
+    "modules": [
+        {
+            "type": "resources",
+            "uuid": "65ecaaf3-765d-4683-bccb-75cf3c635cc5",
+            "version": [
+                1,
+                0,
+                0
+            ]
+        }
+    ]
+}
